@@ -1,4 +1,4 @@
-let message = "X"
+let message = "."
 
 radio.setGroup(17)
 
